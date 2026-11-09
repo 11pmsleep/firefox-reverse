@@ -19,6 +19,9 @@
 ![Engine](https://img.shields.io/badge/hooks-SpiderMonkey_C++-8957E5?style=for-the-badge)
 ![License](https://img.shields.io/badge/license-MPL_2.0-2EA043?style=for-the-badge)
 
+<a href="https://11pmsleep.gungnir.top/">📖 作者博客：11pmsleep.gungnir.top — 逆向实战 / 爬虫风控持续笔记（500+ 篇）</a>
+
+
 <br>
 
 [**📥 下载安装（Releases）**](../../releases)　·　[快速开始](#-快速开始5-步)　·　[指纹环境](#-使用指纹环境可选)　·　[工具大全](#-工具大全64)　·　[从源码构建](#-从源码构建)
